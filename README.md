@@ -1,2 +1,2 @@
-# New-netflix-clone1..
+# New-netflix
 It is a Netflix clone 
